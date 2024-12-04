@@ -19,8 +19,8 @@
 * **Năm học**: 2024-2025
 
 ### Các thành viên của nhóm:
-Họ tên | MSSV | Email | GitHub
---- | --- | -- | --
+Họ tên | MSSV
+--- | ---
 Trương Nguyễn Anh Phong | 22521092
 Trương Quang Lập | 22520750
 Huỳnh Đăng Khoa | 22520669
@@ -30,4 +30,7 @@ Trần Qui Linh | 22520779
 
 ```bash
 python.exe '.\Model\Late Stage Fusion.py'
+```
+```bash
+python.exe '.\Model\Early Stage Fusion.py'
 ```
